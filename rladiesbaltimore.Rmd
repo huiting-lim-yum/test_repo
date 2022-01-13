@@ -32,3 +32,9 @@ x<-"Hello World"
 print(x)
 ```
 
+```{r}
+z<-"A Brown Fox Jumps Over The Wall"
+print(z)
+```
+
+
