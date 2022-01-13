@@ -33,8 +33,14 @@ print(x)
 ```
 
 ```{r}
+<<<<<<< HEAD
 z<-"A Brown Fox Jumps Over The Wall"
 print(z)
 ```
 
 
+=======
+y<-2+3
+print(x)
+```
+>>>>>>> 5cf323f04bb583b57db7b1e140e28353ac726f96
