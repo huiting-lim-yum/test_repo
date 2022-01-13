@@ -44,3 +44,9 @@ y<-2+3
 print(x)
 ```
 >>>>>>> 5cf323f04bb583b57db7b1e140e28353ac726f96
+
+```{r}
+b<-"Hi Back"
+print(b)
+```
+
